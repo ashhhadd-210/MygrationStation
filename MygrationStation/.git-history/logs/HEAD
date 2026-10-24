@@ -1,0 +1,9 @@
+0000000000000000000000000000000000000000 fc1c8d8ff4b113ef78dd822293d4d9dd8b69c77c muhammadashhadbayutx <muhammad.ashhad@bayut.sa> 1775851232 +0500	commit (initial): Initial commit: MygrationStation LLC formation platform
+fc1c8d8ff4b113ef78dd822293d4d9dd8b69c77c 3cf8c38ad993ddf1745500d3744c33cfb5173da9 muhammadashhadbayutx <muhammad.ashhad@bayut.sa> 1775852090 +0500	commit: Redirect login/signup to dashboard in demo mode
+3cf8c38ad993ddf1745500d3744c33cfb5173da9 dcee5966358a8442bcdf57860634a56f664c8354 muhammadashhadbayutx <muhammad.ashhad@bayut.sa> 1775852788 +0500	commit: Demo mode: client-side auth bypass + expose NEXT_PUBLIC_DEMO_MODE
+dcee5966358a8442bcdf57860634a56f664c8354 a934e050a2b50406a53f40d3b90cf714226b1ba7 muhammadashhadbayutx <muhammad.ashhad@bayut.sa> 1775853352 +0500	commit: Server-side auth redirect in demo mode + language switcher
+a934e050a2b50406a53f40d3b90cf714226b1ba7 54d764e493473533aa5e758ecc9b50c0953569a4 muhammadashhadbayutx <muhammad.ashhad@bayut.sa> 1775853729 +0500	commit: Force auth routes to dynamic rendering for demo mode redirect
+54d764e493473533aa5e758ecc9b50c0953569a4 24b6a39e1a2081717961515b44cbb958b8860e32 muhammadashhadbayutx <muhammad.ashhad@bayut.sa> 1775854507 +0500	commit: Fix demo mode auth redirect: server component pages + NEXT_PUBLIC env var
+24b6a39e1a2081717961515b44cbb958b8860e32 049933a937b44d419f72343192d59d90a1a891e7 muhammadashhadbayutx <muhammad.ashhad@bayut.sa> 1775854629 +0500	commit: Hardcode demo mode auth redirect in middleware
+049933a937b44d419f72343192d59d90a1a891e7 3fde0437f43794c34c874b7b9bf6c77b2b62ea93 muhammadashhadbayutx <muhammad.ashhad@bayut.sa> 1775854945 +0500	commit: Switch to email+password auth with test accounts
+3fde0437f43794c34c874b7b9bf6c77b2b62ea93 04f4c020b1edee79b2d19e3955bd4addec35962a muhammadashhadbayutx <muhammad.ashhad@bayut.sa> 1775855855 +0500	commit: Fix language switcher: use next-intl router for locale switching

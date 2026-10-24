@@ -1,0 +1,5 @@
+Fix language switcher: use next-intl router for locale switching
+
+Was using next/navigation router which doesn't handle locale routing.
+Switched to next-intl's useRouter + usePathname with router.replace()
+and locale option for proper locale-aware navigation.
